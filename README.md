@@ -1,0 +1,1 @@
+# eespqui0601-PR-Eclipse-06-DepurarErroresTemperatura
